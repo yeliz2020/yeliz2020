@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
+
 <div align="center">
-<img width="100%" height="250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img src="https://i.pinimg.com/originals/af/91/d3/af91d3d6ba5088cdd6670708173d0466.gif" width= 30% align="center" />
 </div>
+
+<!--
+<img src="https://i.pinimg.com/originals/af/91/d3/af91d3d6ba5088cdd6670708173d0466.gif" width= 20% align="center" />
 -->
-
-
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><img src="https://i.pinimg.com/originals/af/91/d3/af91d3d6ba5088cdd6670708173d0466.gif" width= 20% align="center" /> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yeliz2020.yeliz2020)

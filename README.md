@@ -18,23 +18,21 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
-<img src="https://i.pinimg.com/originals/af/91/d3/af91d3d6ba5088cdd6670708173d0466.gif" width= 30% align="center" />
-</div>
+
 
 <!--
 <img src="https://i.pinimg.com/originals/af/91/d3/af91d3d6ba5088cdd6670708173d0466.gif" width= 20% align="center" />
 -->
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1>:smile: Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yeliz2020.yeliz2020)
 
 </p>
-<div size='20px'> Hi! My name is Yeliz. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Yeliz, ex-nurse now a web development student. Thank You for taking the time to view my GitHub Profile 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px><img src="https://i.pinimg.com/originals/af/91/d3/af91d3d6ba5088cdd6670708173d0466.gif" width= 8% /></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 

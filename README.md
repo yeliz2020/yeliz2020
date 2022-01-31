@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!--
 <img src="https://i.pinimg.com/originals/af/91/d3/af91d3d6ba5088cdd6670708173d0466.gif" width= 20% align="center" />
 -->
-<h1>:smile: Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1>:loudspeaker: Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yeliz2020.yeliz2020)
